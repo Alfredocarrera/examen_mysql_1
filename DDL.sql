@@ -1,6 +1,6 @@
 CREATE DATABASE Pizzeria;
 
-USING Pizzeria;
+USE Pizzeria;
 
 CREATE TABLE bebidas (
     id_bebidas INT PRIMARY KEY AUTO_INCREMENT,
